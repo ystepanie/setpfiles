@@ -3,4 +3,4 @@
 Neovim theme config export.
 
 ## File
-- `lua/plugins/theme-test.lua`
+- `lua/plugins/colorscheme.lua`

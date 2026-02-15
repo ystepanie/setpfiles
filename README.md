@@ -1,6 +1,6 @@
-# nvim-colorscheme
+# nvim-theme
 
-Neovim colorscheme config export.
+Neovim theme config export.
 
 ## File
-- `lua/plugins/colorscheme-test.lua`
+- `lua/plugins/theme-test.lua`

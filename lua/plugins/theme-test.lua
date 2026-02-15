@@ -45,7 +45,7 @@ return {
           "dayfox",
           "gruvbox",
         }
-        vim.ui.select(themes, { prompt = "Choose colorscheme" }, function(choice)
+        vim.ui.select(themes, { prompt = "Choose theme" }, function(choice)
           if choice then
             vim.cmd.colorscheme(choice)
             save_theme(choice)
